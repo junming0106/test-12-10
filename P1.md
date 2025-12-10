@@ -4,7 +4,8 @@
 
 ## 步驟一：在輸入「run」後，讓玩家說「:)」
 
-```blocks
+```block
 player.onChat("run", function () {
     player.say(":)")
 })
+```
